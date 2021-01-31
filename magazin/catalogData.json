@@ -1,0 +1,20 @@
+[
+  {
+    "id_product": 10001,
+    "name": "Экспедиция",
+    "price": 150,
+    "img": "img/gallery/small/01.jpg"
+  },
+  {
+    "id_product": 10002,
+    "name": "Теремок",
+    "price": 150,
+    "img": "img/gallery/small/11.jpg"
+  },
+  {
+    "id_product": 10003,
+    "name": "Кто украл Ку-ку?",
+    "price": 150,
+    "img": "img/gallery/small/21.jpg"
+  }
+]
